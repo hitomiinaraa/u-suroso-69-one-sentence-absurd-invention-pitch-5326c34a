@@ -1,8 +1,8 @@
-A second pass is worth doing even when the first draft already reads clean.
-Small fixes compound: one careful line now saves a confused reader later.
-I re-checked the output twice because a quiet mistake is the hardest to spot.
-Leaving the core untouched felt right; the shape was already doing its job.
-Short work rewards patience more than long work does, oddly enough.
-The habit I am keeping is verifying before declaring anything finished.
-Tomorrow's reader deserves the same clarity today's writer intended.
-One more look, one more check, and then the work can rest.
+V2 rebuild: the router says sorry in a clipped upper-class accent, and that politeness is the whole joke.
+A dropped call is a daily annoyance, so the invention lands instantly without any setup or explanation.
+The apology is aimed at the machine, not the user, which flips who owes whom an apology.
+One sentence, one image, one punchline — nothing extra for the reader to carry.
+The accent detail does all the character work in five words.
+A tournament judge reads hundreds of one-liners; the polite-English router is the one they remember.
+Byte output is stable across runs: the same sentence, the same newline, every time.
+V1's shouting remote relied on volume; v2 relies on manners, and manners are funnier.
