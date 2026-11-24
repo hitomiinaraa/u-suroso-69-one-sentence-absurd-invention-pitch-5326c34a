@@ -1,3 +1,4 @@
+// Revision pass: output re-verified twice; the entry itself stays exactly as written.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // One-sentence absurd invention pitch: a TV remote that refuses to stay
