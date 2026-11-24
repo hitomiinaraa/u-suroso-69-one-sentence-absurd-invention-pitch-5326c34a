@@ -1,9 +1,11 @@
+[![Bounty](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
+[![Rank](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/hitomiinaraa/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/rank.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
+[![Reward](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/hitomiinaraa/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/reward.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
+
 # One-Sentence Absurd Invention Pitch
 
-[![make.fun](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
-[![rank](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/hitomiinaraa/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/rank.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
-[![reward](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/hitomiinaraa/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/reward.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
+Entry for the [One-Sentence Absurd Invention Pitch bounty](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a) on make.fun.
 
-A one-sentence pitch for a ridiculous invention that fixes a tiny everyday annoyance, built for make.fun's "One-Sentence Absurd Invention Pitch" bounty ($2.50 in USDC).
+The entry is a single sentence pitching a ridiculous invention that fixes a tiny everyday annoyance: a Wi-Fi router that apologises in a posh British accent every time it drops your video call mid-sentence.
 
-See the bounty: https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a
+Run it with `node main.ts` — it prints exactly that one sentence.
